@@ -1,4 +1,4 @@
-### Hi there, I'm Jiawei Lu &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello World! I'm Jiawei Lu. &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **JiaweiLu1999/JiaweiLu1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +24,18 @@ Here are some ideas to get you started:
 - :technologist: I'm in [The Fu Foundation School of Engineering and Applied Science](https://www.engineering.columbia.edu/).
 - :seedling: I’m currently learning Deep Learning, Reinforcement Learning, Computer Vision and Embeded AI.
 - :envelope_with_arrow: How to reach me: jl5999@columbia.edu
+
+:bar_chart: **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+:chart_with_upwards_trend: **My GitHub Stats:**
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JiaweiLu1999&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaweiLu1999&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
+</p>
+
+
 
 
 
