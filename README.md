@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 :bar_chart: **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Other      5 mins          ███████████████████████░░   91.50 % 
+HTML       30 mins         ████████████████████▓░░░░   83.27 % 
+Other      5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 % 
 ```
 <!--END_SECTION:waka-->
 
