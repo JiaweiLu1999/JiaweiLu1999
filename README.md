@@ -1,4 +1,4 @@
-### Hello World! I'm Jiawei Lu. &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello World! I'm [Jiawei Lu](https://jiawei-lu.com). &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **JiaweiLu1999/JiaweiLu1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,6 +41,8 @@ Ruby       12 mins         █░░░░░░░░░░░░░░░░�
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JiaweiLu1999&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaweiLu1999&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
 </p>
+
+### More details? Check My [Homepage](https://jiawei-lu.com)!
 
 
 
