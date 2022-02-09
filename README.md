@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 :bar_chart: **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Other      7 hrs 19 mins   ██████████████▓░░░░░░░░░░   58.74 % 
-Python     4 hrs 13 mins   ████████▒░░░░░░░░░░░░░░░░   33.83 % 
-Markdown   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-YAML       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-JSON       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Other      7 hrs 19 mins   ████████████████▒░░░░░░░░   65.94 % 
+Python     2 hrs 51 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.70 % 
+Markdown   32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+YAML       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+JSON       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 <!--END_SECTION:waka-->
 
