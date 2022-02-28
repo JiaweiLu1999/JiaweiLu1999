@@ -27,13 +27,15 @@ Here are some ideas to get you started:
 
 :bar_chart: **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+
 ```text
-Python       2 hrs           ██████████████████████▓░░   91.15 % 
-Markdown     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Text         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Python       43 mins         ███████████████▓░░░░░░░░░   63.21 %
+Markdown     21 mins         ███████▓░░░░░░░░░░░░░░░░░   31.07 %
+Bash         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
+
 <!--END_SECTION:waka-->
 
 :chart_with_upwards_trend: **My GitHub Stats:**
