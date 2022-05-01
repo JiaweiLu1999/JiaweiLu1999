@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python   1 hr 30 mins    █████████████████████▒░░░   85.48 %
-Text     15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Python   1 hr 11 mins    ████████████████████▓░░░░   82.63 %
+Text     15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
 ```
 
 <!--END_SECTION:waka-->
