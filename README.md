@@ -29,12 +29,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     5 hrs 1 min     ████████████░░░░░░░░░░░░░   47.82 %
-SCSS         2 hrs 1 min     █████░░░░░░░░░░░░░░░░░░░░   19.35 %
-YAML         1 hr 27 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
-C++          1 hr 20 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-HTML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Markdown   4 hrs 4 mins    █████████████████▓░░░░░░░   71.17 %
+C++        1 hr 20 mins    ██████░░░░░░░░░░░░░░░░░░░   23.41 %
+JSON       18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
 ```
 
 <!--END_SECTION:waka-->
