@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   1 hr 59 mins    ██████████████▒░░░░░░░░░░   57.44 %
-C++        1 hr 10 mins    ████████▒░░░░░░░░░░░░░░░░   33.62 %
-JSON       18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+Markdown   1 hr 49 mins    ████████████████████▓░░░░   82.34 %
+C++        23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.66 %
 ```
 
 <!--END_SECTION:waka-->
