@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   1 hr 49 mins    ████████████████████▓░░░░   82.34 %
-C++        23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.66 %
+C++   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
