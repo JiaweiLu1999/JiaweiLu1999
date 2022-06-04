@@ -1,4 +1,4 @@
-### Hello World! I'm [Jiawei Lu](https://jiawei-lu.com). &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello World! I'm [Jiawei Lu](https://jiawei-lu.com). &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=20>
 
 <!--
 **JiaweiLu1999/JiaweiLu1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
