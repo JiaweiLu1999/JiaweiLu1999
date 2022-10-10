@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java       7 hrs 8 mins    █████████████████████████   99.89 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Java       7 hrs 34 mins   ████████████████████████▒   97.01 %
+Other      13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
 ```
 
 <!--END_SECTION:waka-->
