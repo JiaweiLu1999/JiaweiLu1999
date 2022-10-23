@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java             10 hrs 38 mins  ████████████▒░░░░░░░░░░░░   49.55 %
-Python           7 hrs 10 mins   ████████▒░░░░░░░░░░░░░░░░   33.42 %
-SQL              2 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
-HTML             39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-GitIgnore file   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Git Config       7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Java             10 hrs 38 mins  ███████████▒░░░░░░░░░░░░░   44.75 %
+Python           9 hrs 3 mins    █████████▓░░░░░░░░░░░░░░░   38.10 %
+HTML             2 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+SQL              36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+GitIgnore file   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+INI              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
