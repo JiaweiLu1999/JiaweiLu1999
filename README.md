@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java             11 hrs 20 mins  ████████████░░░░░░░░░░░░░   47.52 %
-XML              5 hrs 19 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.32 %
-HTML             2 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-Python           1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-Makefile         1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-Text             53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Java             9 hrs 40 mins   ███████████░░░░░░░░░░░░░░   44.51 %
+XML              4 hrs 45 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
+HTML             2 hrs 46 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
+Python           1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Makefile         1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Text             53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
 ```
 
 <!--END_SECTION:waka-->
