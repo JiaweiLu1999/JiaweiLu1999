@@ -29,12 +29,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-HTML             11 hrs 19 mins  █████████████▒░░░░░░░░░░░   52.93 %
-Java             3 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
-Python           2 hrs 45 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
-XML              2 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-CSS              1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-IDEA_MODULE      14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+HTML             14 hrs 37 mins  ██████████████▓░░░░░░░░░░   58.14 %
+Python           4 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+CSS              3 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+Java             2 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+Other            17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
