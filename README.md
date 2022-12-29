@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python   14 mins         █████████████▓░░░░░░░░░░░   54.30 %
-HTML     6 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.23 %
-Other    5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.47 %
+Python   7 mins          ████████████████████▒░░░░   81.49 %
+Other    1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.51 %
 ```
 
 <!--END_SECTION:waka-->
