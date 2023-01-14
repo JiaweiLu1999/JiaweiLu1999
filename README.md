@@ -29,7 +29,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java          14 mins         ████████████░░░░░░░░░░░░░   48.00 %
+HTML          7 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.31 %
+IDEA_MODULE   7 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.26 %
+Properties    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
