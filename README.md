@@ -29,10 +29,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-CSS    33 mins         █████████████▒░░░░░░░░░░░   53.44 %
-HTML   26 mins         ██████████▓░░░░░░░░░░░░░░   42.13 %
-XML    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-Java   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
