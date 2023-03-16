@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python           12 hrs 52 mins  ██████████████████▓░░░░░░   75.30 %
-Java             3 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
-Text             34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Other            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Python           12 hrs 52 mins  █████████████████████░░░░   84.44 %
+Java             1 hr 41 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+Text             34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Other            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
