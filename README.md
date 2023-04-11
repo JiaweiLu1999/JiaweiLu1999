@@ -29,12 +29,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java             3 hrs 22 mins   █████████████░░░░░░░░░░░░   51.92 %
-Properties       1 hr 38 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.25 %
-XML              57 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
-Text             26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-textmate         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Java   2 hrs 20 mins   ████████████████████████▓   98.19 %
+Text   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
