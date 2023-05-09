@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java   26 mins         █████████████████████████   100.00 %
+Java         38 mins         ████████████████████████░   96.51 %
+Properties   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
