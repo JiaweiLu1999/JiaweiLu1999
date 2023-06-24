@@ -29,11 +29,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     23 mins         ███████████▒░░░░░░░░░░░░░   44.72 %
-Java         11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.64 %
-SQL          10 mins         █████░░░░░░░░░░░░░░░░░░░░   19.87 %
-Properties   6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
