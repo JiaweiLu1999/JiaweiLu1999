@@ -29,9 +29,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 hrs 16 mins   ██████████████▓░░░░░░░░░░   58.56 %
-HTML         4 hrs 25 mins   ██████████▒░░░░░░░░░░░░░░   41.26 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TypeScript       3 hrs 18 mins   ████████████▓░░░░░░░░░░░░   50.72 %
+HTML             2 hrs 30 mins   █████████▓░░░░░░░░░░░░░░░   38.63 %
+Java             22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Properties       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+GitIgnore file   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
