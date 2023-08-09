@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           4 hrs 56 mins   ████████████████████▓░░░░   83.00 %
-Java             20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-XML              8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-HTML             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Properties       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Python           4 hrs 56 mins   ███████████████████████░░   91.79 %
+HTML             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+CSV              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+GitIgnore file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Text             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
