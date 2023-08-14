@@ -29,11 +29,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           1 hr 43 mins    ██████████████████████▓░░   90.08 %
-HTML             6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Other            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-CSS              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
