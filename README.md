@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Scala            3 mins          ███████████████████░░░░░░   75.43 %
+GitIgnore file   1 min           ██████░░░░░░░░░░░░░░░░░░░   24.56 %
+Ezhil            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
