@@ -29,8 +29,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Scala            23 mins         ████████████████████████░   95.69 %
-GitIgnore file   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Scala            1 hr 3 mins     ████████████████████████▓   98.15 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+CSV/TSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 Ezhil            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
