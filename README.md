@@ -29,10 +29,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java             9 mins          ████████████████████████░   95.97 %
-Scala            0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Ezhil            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Java             19 mins         ████████████████████████▓   99.09 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Ezhil            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
