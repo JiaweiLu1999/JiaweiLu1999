@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              2 hrs 21 mins   ██████████▓░░░░░░░░░░░░░░   42.68 %
-Properties        1 hr 7 mins     █████░░░░░░░░░░░░░░░░░░░░   20.39 %
-Java Properties   41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
-XML               36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
-Docker            23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+Java              2 hrs 47 mins   █████████░░░░░░░░░░░░░░░░   36.33 %
+Python            1 hr 36 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.98 %
+Properties        1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+Java Properties   44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+XML               39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
 ```
 
 <!--END_SECTION:waka-->
