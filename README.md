@@ -29,9 +29,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java         39 mins         ██████████████████████▒░░   89.14 %
-TypeScript   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-Markdown     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Java   15 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
