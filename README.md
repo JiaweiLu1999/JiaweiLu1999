@@ -29,8 +29,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   0 secs          █████████████░░░░░░░░░░░░   52.62 %
-HTML       0 secs          ████████████░░░░░░░░░░░░░   47.38 %
+Markdown   43 mins         ██████████████████▓░░░░░░   74.72 %
+Ruby       7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
+HTML       6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+Text       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
