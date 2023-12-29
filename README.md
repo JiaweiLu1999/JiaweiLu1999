@@ -29,10 +29,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         1 hr 17 mins    █████████████████████▒░░░   85.57 %
-Markdown     9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-Java         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+HTML       1 hr 41 mins    ██████████████████████▒░░   89.72 %
+Markdown   11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
 ```
 
 <!--END_SECTION:waka-->
