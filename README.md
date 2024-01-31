@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              21 hrs 5 mins   ███████████████████░░░░░░   75.81 %
-YAML              4 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
-XML               1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-Docker            28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-GitIgnore file    8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Java              19 hrs 17 mins  ████████████████████░░░░░   80.36 %
+YAML              2 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+XML               1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+Docker            28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+GitIgnore file    9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
