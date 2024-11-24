@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++     37 mins         █████████████████████████   99.43 %
-JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+C++    37 mins         █████████████████████████   99.52 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
