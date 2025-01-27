@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   4 hrs 21 mins   █████████████████████░░░░   83.34 %
-C++     51 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
-C       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Other   4 hrs 57 mins   █████████████████████▒░░░   85.03 %
+C++     51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
+C       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
