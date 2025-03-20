@@ -29,7 +29,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++          55 mins         ██████████████████░░░░░░░   72.43 %
+Other        13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.67 %
+TypeScript   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+C            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
