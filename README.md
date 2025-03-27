@@ -29,10 +29,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++          55 mins         █████████████████▒░░░░░░░   69.63 %
-Other        13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
-TypeScript   9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
-C            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+TypeScript   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
